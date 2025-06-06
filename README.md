@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up? ,My Name is Sanket and i am software devloper </h1>
+<h1 align="center">Hey 👋What's Up? ,My name is Sanket And i am Software Developer</h1>
 
 ###
 
@@ -16,6 +16,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="60" alt="intellij logo"  />
 </div>
 
 ###
@@ -49,8 +53,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sanket0112/sanket0112/output/pacman-contribution-graph-dark.svg">
