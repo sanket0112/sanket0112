@@ -63,7 +63,7 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/sanket0112/sanket0112/output/snake.svg" alt="Snake animation">
 
-<img src="https://raw.githubusercontent.com/sanket0112/sanket0112/output/snake.svg" alt="Snake animation" />
 
 ###
